@@ -4,7 +4,7 @@
 NEGPOD_ID="Negpod_10"
 
 # Source directory to be backed up
-SRC_DIR="negpod_id-q1"
+SRC_DIR="negpod_10-q1"
 
 # Remote server details
 REMOTE_HOST="2f05c1f8800b.3be8ebfc.alu-cod.online"
